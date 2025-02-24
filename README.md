@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/c6eb192e-cdd9-4820-833d-0dbbaa416922)![image](https://github.com/user-attachments/assets/edccd3da-a641-40c4-a74c-4fa1e8773b5d)<!--
+<!--
 ## Hi there, I am Daniel junior 👋
 
 
