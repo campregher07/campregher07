@@ -1,4 +1,4 @@
-<!--
+![image](https://github.com/user-attachments/assets/5913be97-cb71-4835-9ac1-79fa06fd8db3)<!--
 ## Hi there, I am Daniel junior 👋
 
 
@@ -48,7 +48,7 @@ Here are some ideas to get you started:
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" height="40" alt="css logo"  />
   <img width="12" />
-  <img src="https://w7.pngwing.com/pngs/167/148/png-transparent-microsoft-azure-sql-database-microsoft-sql-server-database-blue-text-logo-thumbnail.png" height="40" alt="sql logo"  />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" height="40" alt="sql logo"  />
   <img width="12" />
 </div>
 
