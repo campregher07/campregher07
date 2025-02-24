@@ -1,4 +1,4 @@
-<!--
+![image](https://github.com/user-attachments/assets/c6eb192e-cdd9-4820-833d-0dbbaa416922)![image](https://github.com/user-attachments/assets/edccd3da-a641-40c4-a74c-4fa1e8773b5d)<!--
 ## Hi there, I am Daniel junior 👋
 
 
@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 ###
 
-<p align="left">✨ Creating bugs since 2007<br>📚 I'm currently learning  Python, Java, JavaScript, Node.js, HTML, CSS, My SQL<br>🎯 Goals: become a senior programmer<br>🎲 Fun fact: I love soccer</p>
+<p align="left">✨ Creating bugs since 2007<br>📚 I'm currently learning  Python, Java, JavaScript, Node.js, HTML, CSS, SQL<br>🎯 Goals: become a senior programmer<br>🎲 Fun fact: I love soccer</p>
 
 ###
 
@@ -44,9 +44,11 @@ Here are some ideas to get you started:
   <img width="12" />
   <img src="https://logodownload.org/wp-content/uploads/2019/10/python-logo-2.png" height="40" alt="python logo"  />
   <img width="12" />  
-  <img src="https://i.pinimg.com/736x/91/17/48/91174838481320be811fa7da10a51fea.jpg" height="80" alt="html css logo"  />
-  <img width="24" />  
-  <img src="https://www.cdnlogo.com/logos/m/47/mysql.svg" height="40" alt="mysql logo"  />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.svg.png" height="40" alt="html logo"  />
+  <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" height="40" alt="css logo"  />
+  <img width="12" />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHHk7Co9ltGnBCmXwChh_Yg9ZHOvNTIaJNUw&s" height="40" alt="sql logo"  />
   <img width="12" />
 </div>
 
