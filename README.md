@@ -48,7 +48,7 @@ Here are some ideas to get you started:
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" height="40" alt="css logo"  />
   <img width="12" />
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHHk7Co9ltGnBCmXwChh_Yg9ZHOvNTIaJNUw&s" height="40" alt="sql logo"  />
+  <img src="https://w7.pngwing.com/pngs/525/959/png-transparent-microsoft-azure-sql-database-microsoft-sql-server-cloud-computing-text-trademark-logo.png" height="40" alt="sql logo"  />
   <img width="12" />
 </div>
 
