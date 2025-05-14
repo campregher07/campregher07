@@ -1,5 +1,5 @@
-<img src=![github-header-image](https://github.com/user-attachments/assets/1ba3f4ec-e9d4-444a-b0ae-432cee878fe6)
-""  >
+![github-header-image](https://github.com/user-attachments/assets/1ba3f4ec-e9d4-444a-b0ae-432cee878fe6)
+
 
 
 <h1 align="left">Hey 👋 What's up?</h1>
