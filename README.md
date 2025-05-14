@@ -1,18 +1,5 @@
-<!--
-## Hi there, I am Daniel junior 👋
-
-
-**campregher07/campregher07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-
-- 🌱 I’m currently learning Python, Java, JavaScript, Node.js, HTML, CSS, My SQL;
-- 👯 I’m looking to collaborate on chat IA project;
-- 💬 Ask me about data science;
-- 📫 How to reach me: www.linkedin.com/in/daniel-campregher-junior-101482352;
-- ⚡ Fun fact: I love soccer.
--->
+<img src=![github-header-image](https://github.com/user-attachments/assets/1ba3f4ec-e9d4-444a-b0ae-432cee878fe6)
+""  >
 
 
 <h1 align="left">Hey 👋 What's up?</h1>
